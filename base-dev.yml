@@ -12,7 +12,6 @@ spring:
   jpa:
     database: mysql
     show-sql: true
-    
   rabbitmq:
     host: 192.168.187.135
 
